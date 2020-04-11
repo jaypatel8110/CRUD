@@ -13,7 +13,6 @@ import org.springframework.stereotype.Component;
 @Component
 // Spring jpa jars.
 @Entity
-
 // To increase speed and save sql statement execution time.
 @DynamicInsert
 @DynamicUpdate
